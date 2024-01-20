@@ -1,1 +1,1 @@
-Two Labs: One is for NLP classification Task , Second Lab is for Text generation using Transformer
+Two labs are involved in different tasks. The first lab focuses on a classification task, which includes data scraping using the BeautifulSoup library and implementing a preprocessing NLP pipeline for the collected data. The training phase involves the utilization of RNN, GRU, and LSTM architectures. On the other hand, the second lab is dedicated to text generation using PyTorch-transformers, with a specific emphasis on fine-tuning the GPT-2 pre-trained model.
